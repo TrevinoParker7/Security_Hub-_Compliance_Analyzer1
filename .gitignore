@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*_venv/
+temp_venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AWS
+.aws-sam/
+*.zip
+response.json
+*_response.json
+lambda-code*.zip
+
+# Project specific
+debug_email.html
+.pytest_cache/
+*.log
+temp/
+output*.json
+direct_*.json
+test_*.json
+nist_*.json
+cato_*.json
+frameworks_*.json
+
+# Keep
+!examples/*.json
+!config/*.json
+!deployment/config/*.json
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+*.csv
+!config/mappings.json
