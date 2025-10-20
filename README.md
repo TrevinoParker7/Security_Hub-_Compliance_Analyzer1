@@ -1,8 +1,6 @@
 # AWS SecurityHub Multi-Framework Compliance Analyzer
 ## A GRC Portfolio Playground for Cloud Compliance
 
-[![CI/CD Pipeline](https://github.com/0000127/security-hub-compliance-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/0000127/security-hub-compliance-analyzer/actions/workflows/ci.yml)
-
 **⚠️ Verify Emails First!**  
 This tool requires sender and recipient emails verified in Amazon SES. See [Deployment Guide](docs/DEPLOYMENT_GUIDE.md) before starting—skipping this breaks email reporting!
 
