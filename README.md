@@ -242,21 +242,5 @@ After you've completed this lab, consider these next steps for your GRC portfoli
 - [Email Setup and Delivery Guide](docs/EMAIL_README.md)
 - [Email Troubleshooting Guide](docs/EMAIL_TROUBLESHOOTING.md)
 
-## Community Support
 
-Join our community of GRC professionals building their technical portfolios:
 
-- [Connect on LinkedIn](https://www.linkedin.com/in/000awn/)
-
-## Acknowledgments
-
-This project was designed to bridge the gap between technical security implementations and GRC requirements, making cloud compliance more accessible to non-technical professionals.
-
-This project was inspired by [AWS Security Hub Findings Summarizer with AI-Powered Analysis](https://github.com/aws-samples/analyze-securityhub-findings-with-bedrock), an AWS sample that demonstrates how to use Amazon Bedrock to analyze SecurityHub findings. While our project focuses specifically on SOC 2 compliance for GRC professionals, we appreciate the architectural patterns and concepts demonstrated in the original AWS sample.
-
-## Join the Journey
-
-Got ideas? Found a bug? Just wanna chat GRC adventures? Hit me up on [LinkedIn](https://www.linkedin.com/in/000awn/) or toss thoughts in GitHub Issues. This is a WIP—let's build it together!
-
-## Related Projects
-Check out my other GRC playground: [aws_automated_access_review](https://github.com/0000127/aws_automated_access_review) for IAM-focused security audits and access reviews!
